@@ -1,0 +1,12 @@
+/Volumes/Karim/Indie HR/IdentityAdapter/src/bin/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.deps.json
+/Volumes/Karim/Indie HR/IdentityAdapter/src/bin/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.dll
+/Volumes/Karim/Indie HR/IdentityAdapter/src/bin/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.pdb
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.csproj.AssemblyReference.cache
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.AssemblyInfoInputs.cache
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.AssemblyInfo.cs
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.csproj.CoreCompileInputs.cache
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.dll
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/refint/IdentityCore.Adapter.AspNetMembership.dll
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/IdentityCore.Adapter.AspNetMembership.pdb
+/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/Debug/net6.0/ref/IdentityCore.Adapter.AspNetMembership.dll

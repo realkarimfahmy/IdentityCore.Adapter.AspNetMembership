@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdentityCore.Adapter.AspNetMembership
+build_property.ProjectDir = /Volumes/Karim/Indie HR/IdentityAdapter/src/

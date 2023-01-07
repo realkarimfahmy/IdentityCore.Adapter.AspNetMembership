@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Karim/Indie HR/IdentityAdapter/src/Microsoft.AspNetCore.Identity.AspNetMembershipAdapter.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Karim/Indie HR/IdentityAdapter/src/Microsoft.AspNetCore.Identity.AspNetMembershipAdapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Karim/Indie HR/IdentityAdapter/src/Microsoft.AspNetCore.Identity.AspNetMembershipAdapter.csproj",
+        "projectName": "Microsoft.AspNetCore.Identity.AspNetMembershipAdapter",
+        "projectPath": "/Volumes/Karim/Indie HR/IdentityAdapter/src/Microsoft.AspNetCore.Identity.AspNetMembershipAdapter.csproj",
+        "packagesPath": "/Users/karimfahmy/.nuget/packages/",
+        "outputPath": "/Volumes/Karim/Indie HR/IdentityAdapter/src/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/karimfahmy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
