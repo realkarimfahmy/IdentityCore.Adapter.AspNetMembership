@@ -16,7 +16,7 @@ so now developers can focus more on main business while using tested and standar
 
 ## Installation
 
-Install my-project with npm
+Install by Nuget
 
 ```bash
   dotnet add package IdentityCore.Adapter.AspNetMembership
