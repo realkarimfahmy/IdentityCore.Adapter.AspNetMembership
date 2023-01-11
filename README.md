@@ -1,7 +1,7 @@
 
 # IdentityCore.Adapter.AspNetMembership
 
-is a Adapter library that enables you to use [Microsoft Identity](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-6.0&tabs=visual-studio) with exsiting code base using AspNetMembership user managment
+is a Adapter library that enables you to use [Microsoft Identity](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-6.0&tabs=visual-studio) with existing code base using AspNetMembership user management
 to have several new features like Two-Factor Authentication, Account Lockout, Account Confirmation, Password Reset, Security Stamp (Sign-Out Everywhere) and external login with existing Facebook, Google, Twitter or Live login.
 
 Before, these features had to be coded,
